@@ -1,6 +1,11 @@
-@import "bootstrap/scss/bootstrap";
-@import "bootstrap/scss/bootstrap";
+// @import "bootstrap/scss/bootstrap";
 
 @import "components/index";
 @import "pages/index";
 @import "config/index";
+
+
+body {
+  background-image: url("https://res.cloudinary.com/dmpp04azs/image/upload/v1679232471/Portfolio/DESKTOP_iol6bz.gif");
+  background-position: top;
+}
